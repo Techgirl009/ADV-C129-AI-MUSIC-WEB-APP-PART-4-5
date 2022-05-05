@@ -1,0 +1,44 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 40px;
+}
+.note{
+    color: black;
+    font-size: 25px;
+}
+.song_name{
+    font-size: 25px;
+    background-color: rgb(255, 164, 164);
+}
+canvas{
+    background-color: #000000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
+
+.song1
+{
+    float: left;
+    margin-left: 20px;
+    background-color: plum;
+    font-size: 25px;
+}
+
+.song2
+{
+    float: right;
+    margin-right: 20px;
+    background-color: powderblue;
+    font-size: 25px;
+}
+
+.play
+{
+    font-size: 25px;
+    background-color: mistyrose;
+}
